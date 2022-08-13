@@ -1,0 +1,30 @@
+.searchBox {
+  text-align: center;
+  background-color: aqua;
+  padding: 20px;
+}
+
+.details {
+  text-align: center;
+}
+
+.moviesdetails {
+  padding: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.movie {
+  padding: 3%;
+}
+
+.moviename {
+  width: 300px;
+}
